@@ -1,9 +1,11 @@
 # Dicoding-Basic-ML-and-Deep-Learning
-Repositori ini terdapat project akhir Dicoding deteksi gambar "rock-paper-scissor" menggunakan model CNN. hasil dari project ini ialah komputer dapat mengenali gambar batu, gunting, dan kertas dan juga pemain dapat bermain game gunting-batu-kertas melawan komputer.
-Proses dalam project deteksi gambar ini ialah sebagai berikut:
-1. Ekstrak file ZIP
-2. Split data validasi sebesar 40%
-3. Augmentasi gambar
-4. mengkonstruksi model CNN
-5. Training model CNN
+This repository contains Dicoding final project rock-paper-scissor classification using the CNN model. The result of this project is that the computer can recognize rock, scissors, and paper images, and also players can play rock-paper-scissors against the computer.
+The process in this image detection project is as follows:
+1. Extract the ZIP file
+2. Split validation data by 40%
+3. Image augmentation
+4. construct the CNN model
+5. CNN model training
 6. Predict data
+
+The resulting CNN model has an accuracy rate of 90% and a val_accuracy rate of 90%
