@@ -8,4 +8,4 @@ The process in this image detection project is as follows:
 5. CNN model training
 6. Predict data
 
-The resulting CNN model has an accuracy rate of 90% and a val_accuracy rate of 90%
+The resulting CNN model has an accuracy rate of 99.5% and a val_accuracy rate of 97.5%
